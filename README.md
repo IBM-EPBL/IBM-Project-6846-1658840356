@@ -6,7 +6,7 @@ IBM-Project-6846-1658840356
 
 Team ID : PNT2022TMID37389
 
-Team Members : 🤗
+Team Members : :star:
 
 •	Prabhu G
 •	Velvigneswar J
@@ -15,7 +15,7 @@ Team Members : 🤗
 
 Project Objectives : 
 
-By the end of this project :
+By the end of this project : :file_folder:
 
 We'll be able to understand the problem to classify if it is a regression or a classification kind of problem.
 We will be able to know how to pre-process/clean the data using different data pre-processing techniques.
@@ -23,7 +23,7 @@ Applying different algorithms according to the dataset
 We will be able to know how to find the accuracy of the model.
 We will be able to build web applications using the Flask framework.
 
-Project Flow: 
+Project Flow: :page_with_curl:
 
 Find below the project flow to be followed while developing the project.
 -Download the dataset. -Preprocess or clean the data. -Analyze the pre-processed data. -Train the machine with preprocessed data using an appropriate machine learning algorithm. -Save the model and its dependencies. -Build a Web application using a flask that integrates with the model built.
