@@ -8,7 +8,7 @@ IBM-Project-6846-1658840356
 
 **Team ID :** PNT2022TMID37389
 
-### Team Members :  <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/512.gif" alt=":star:" width="30" height="30"></picture>
+### Team Members :  <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/512.gif" alt=":page_with_curl:" width="30" height="30"></picture>
    
 •	Prabhu G
    
