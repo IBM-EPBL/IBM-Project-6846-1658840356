@@ -44,3 +44,7 @@ In order to detect and predict e-banking phishing websites, we proposed an intel
 
 Technical Architecture : 
 
+![pasted image 0](https://user-images.githubusercontent.com/113708133/200919442-712d3b50-a902-44de-8385-f66462168be3.png)
+
+
+
