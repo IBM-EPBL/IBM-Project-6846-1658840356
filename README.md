@@ -32,8 +32,14 @@ We will be able to build web applications using the Flask framework.
 
 Project Flow: :page_with_curl:
 
-Find below the project flow to be followed while developing the project.
--Download the dataset. -Preprocess or clean the data. -Analyze the pre-processed data. -Train the machine with preprocessed data using an appropriate machine learning algorithm. -Save the model and its dependencies. -Build a Web application using a flask that integrates with the model built.
+ the project flow to be followed while developing the project is as follows :
+ 
+-Download the dataset.
+-Preprocess or clean the data.
+-Analyze the pre-processed data.
+-Train the machine with preprocessed data using an appropriate machine learning algorithm.
+-Save the model and its dependencies. 
+-Build a Web application using a flask that integrates with the model built.
 
 Introduction : 🎊
 
